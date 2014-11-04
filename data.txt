@@ -1,0 +1,3 @@
+Bob's experiment,10,23,11,15,13
+Prof's trial,12,12,13,15,14,13
+Mary's experiment,11,13,12,15,13,14
